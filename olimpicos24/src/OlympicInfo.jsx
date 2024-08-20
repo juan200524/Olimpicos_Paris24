@@ -33,42 +33,42 @@ const OlympicInfo = () => {
             <tr>
               <td>1</td>
               <td>Estados Unidos</td>
-              <td>39</td>
-              <td>41</td>
-              <td>33</td>
-              <td>113</td>
+              <td>40</td>
+              <td>44</td>
+              <td>42</td>
+              <td>126</td>
             </tr>
             <tr>
               <td>2</td>
               <td>China</td>
-              <td>38</td>
-              <td>32</td>
-              <td>18</td>
-              <td>88</td>
+              <td>40</td>
+              <td>27</td>
+              <td>24</td>
+              <td>91</td>
             </tr>
             <tr>
               <td>3</td>
               <td>Japón</td>
-              <td>27</td>
-              <td>14</td>
-              <td>17</td>
-              <td>58</td>
+              <td>20</td>
+              <td>12</td>
+              <td>13</td>
+              <td>45</td>
             </tr>
             <tr>
               <td>4</td>
-              <td>Gran Bretaña</td>
-              <td>22</td>
-              <td>21</td>
-              <td>22</td>
-              <td>65</td>
+              <td>Australia</td>
+              <td>18</td>
+              <td>19</td>
+              <td>16</td>
+              <td>53</td>
             </tr>
             <tr>
               <td>5</td>
-              <td>ROC</td>
-              <td>20</td>
-              <td>28</td>
-              <td>23</td>
-              <td>71</td>
+              <td>Francia</td>
+              <td>16</td>
+              <td>26</td>
+              <td>22</td>
+              <td>64</td>
             </tr>
           </tbody>
         </table>
